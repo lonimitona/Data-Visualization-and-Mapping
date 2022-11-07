@@ -1,10 +1,8 @@
 # -----------------------------------------------------------------------------
-# <502 Assignment code.R>
-# <PMIM502 Assignment>/<Health Data Visualization>
+# <GIS Project Code.R>
 # <R Script>/<26/05/2022>
-# <Student ID>/<2149508>
 # <Rcode/RStudio Project>
-# <Copyright/2149508>
+# <Copyright/Oluwalonimi Laditan>
 # -----------------------------------------------------------------------------
 
 #Load libraries
