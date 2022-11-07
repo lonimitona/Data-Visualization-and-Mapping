@@ -1,2 +1,2 @@
-# PMIM102J-Assignment
+# Project
 Database Project
