@@ -1,0 +1,9 @@
+age_group,all_deaths,all_male_deaths,all_female_deaths,all_covid_deaths,male_covid_deaths,female_covid_deaths,percent_covid_deaths,percent_male_covid_deaths,percent_female_covid_deaths
+All ages,13630,4828,8802,"2,367",970,"1,397",17.4,20.1,15.9
+0-64 yrs,280,155,125,41,26,15,14.6,16.8,12
+65-69 yrs,285,162,123,51,29,22,17.9,17.9,17.9
+70-74 yrs,619,360,259,113,78,35,18.3,21.7,13.5
+75-79 yrs,1167,559,608,221,119,102,18.9,21.3,16.8
+80-84 yrs,2285,990,1295,434,221,213,19,22.3,16.4
+85-89 yrs,3238,1122,2116,590,228,362,18.2,20.3,17.1
+90+ yrs,5756,1480,4276,917,269,648,15.9,18.2,15.2
